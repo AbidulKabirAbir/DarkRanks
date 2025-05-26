@@ -1,4 +1,4 @@
-***DarkRanks***
+                                                                DarkRanks
 # 🔐 DarkRanks - Encode & Decode Toolkit (Bash)
 
 DarkRanks is a versatile command-line tool written in pure Bash that allows you to encode and decode text using various algorithms. Designed with a clean, interactive interface and dynamic ASCII art banner, it supports everything from Base64 to Morse code, making it an ideal companion for developers, security enthusiasts, and terminal lovers.
