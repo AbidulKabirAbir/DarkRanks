@@ -7,8 +7,6 @@
 | $$$$$$$/|  $$$$$$$| $$      | $$ \  $$| $$  | $$|  $$$$$$$| $$  | $$| $$ \  $$ /$$$$$$$/
 |_______/  \_______/|__/      |__/  \__/|__/  |__/ \_______/|__/  |__/|__/  \__/|_______/ 
 
-# DarkRanks
-🔐 DarkRanks - Encode &amp; Decode Toolkit in Bash DarkRanks is a powerful and flexible Bash-based text encoder/decoder supporting multiple algorithms. It's designed for simplicity, performance, and a clean CLI user experience, featuring a stylish ASCII banner and dynamic color changes every time the script runs.
 # 🔐 DarkRanks - Encode & Decode Toolkit (Bash)
 
 DarkRanks is a versatile command-line tool written in pure Bash that allows you to encode and decode text using various algorithms. Designed with a clean, interactive interface and dynamic ASCII art banner, it supports everything from Base64 to Morse code, making it an ideal companion for developers, security enthusiasts, and terminal lovers.
