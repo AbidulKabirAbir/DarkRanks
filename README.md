@@ -45,7 +45,7 @@ Ensure your environment includes the following:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/darkranks.git
+   git clone https://github.com/AbidulKabirAbir/DarkRanks.git
    cd darkranks
    chmod +x darkranks.sh
    ./darkranks.sh
